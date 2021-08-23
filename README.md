@@ -16,8 +16,18 @@ Languages & Technologies: `Java`, `Angular`, `TypeScript`, `Spring Framework` \
 
 [<img align="left" height="94px" width="94px" alt="University of Birmingham logo" src="https://avatars.githubusercontent.com/u/44097453?s=200&v=4"/>](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/index.aspx)
 
-**System Administrator**
-
+**System Administrator** \
 [**University of Birmingham Advanced Research Computing**](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/index.aspx) • Part-time \
 Languages & Technologies: `SaltStack`, `Docker`, `Kubernetes` `Python`, `OpenStack` \
 <br/>
+
+### Education
+
+[<img align="left" height="94px" width="94px" alt="University of Birmingham logo" src="https://avatars.githubusercontent.com/u/44097453?s=200&v=4"/>](https://www.birmingham.ac.uk/schools/computer-science/index.aspx)
+
+**University of Birmingham** \
+[**Computer Science with Year in Industry**](https://www.birmingham.ac.uk/schools/computer-science/index.aspx) • 1st class \
+Checkout my [final project](https://alexander-lloyd.dev/digital-circuit-visualiser/) & [the code](https://github.com/alexander-lloyd/digital-circuit-visualiser)
+<br/>
+
+
