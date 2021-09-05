@@ -11,7 +11,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Engineer** \
 [**BlackRock**](https://www.blackrock.com/) • Full-time \
-Languages & Technologies: `Java`, `Angular`, `TypeScript`, `Spring Framework` \
+Languages & Technologies: <img src="https://shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=black" />, <img src="https://shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=black" />, <img src="https://shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black" />, <img src="https://shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=black" />  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Birmingham logo" src="https://avatars.githubusercontent.com/u/44097453?s=200&v=4"/>](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/index.aspx)
