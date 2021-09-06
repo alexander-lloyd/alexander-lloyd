@@ -11,14 +11,24 @@ In the overview below you will find my most recent work experience:
 
 **Software Engineer** \
 [**BlackRock**](https://www.blackrock.com/) • Full-time \
-Languages & Technologies: <img src="https://shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=black" /> <img src="https://shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=black" /> <img src="https://shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black" /> <img src="https://shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=black" /> <img src="https://shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=black" /> \
+Languages & Technologies: 
+  <img src="https://shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Birmingham logo" src="https://avatars.githubusercontent.com/u/44097453?s=200&v=4"/>](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/index.aspx)
 
 **System Administrator** \
 [**University of Birmingham Advanced Research Computing**](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/index.aspx) • Part-time \
-Languages & Technologies: `SaltStack`, `Docker`, `Kubernetes` `Python`, `OpenStack` \
+Languages & Technologies:
+  <img src="https://shields.io/badge/-SaltStack-00EACE?style=flat-square&logo=saltstack&logoColor=white" />
+  <img src="https://shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" /> \
 <br/>
 
 ### Education
