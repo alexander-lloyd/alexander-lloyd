@@ -9,7 +9,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="BlackRock" src="https://avatars.githubusercontent.com/u/10467948?s=200&v=4"/>](https://www.blackrock.com/)
 
-**Associate Software Engineer** \
+**Vice President Senior Software Engineer** \
 [**BlackRock**](https://www.blackrock.com/) • Full-time \
 Languages & Technologies:
   <img src="https://shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
